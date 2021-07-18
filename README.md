@@ -1,0 +1,1 @@
+Not much on this repo, just testing how to setup and write a GO package
